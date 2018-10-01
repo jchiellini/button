@@ -1,5 +1,5 @@
 import Button from './Button';
 
-export default {
+module.exports = {
   Button
-}
+};
